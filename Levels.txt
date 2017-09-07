@@ -1,1 +1,1 @@
-Version	2		Level	en	zh-Hant	zh-Hans0	My Favorites	____	____1	Pronoun	__	__2	Character	__	__3	Animal	__	__4	Numbers	__	__5	Food	__	__6	Drinks	__	__7	Places	__	__
+Version	3		Level	en	zh-Hant	zh-Hans0	My Favorites	____	____1	Pronoun	__	__2	Character	__	__3	Animal	__	__4	Numbers	__	__5	Food	__	__6	Drinks	__	__7	Places	__	__
